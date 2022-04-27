@@ -162,12 +162,15 @@
 .f2 h2{
 	font-size: 20px;
 }
+
+
 @media screen and (max-width: 500px)
 {
 
 .main{
 	/*background-image: none;*/
-	height: 450px;
+	height: 188px;
+	width:344px;
 }
 .page{
 	margin-left:73px ;
@@ -188,19 +191,26 @@ h1{
 	width: 90%;
 }
 .orisys img{
-	    margin-left: -70px;
+	    margin-left: 168px;
+	    width: 100px;
+
 }
-.main1{
-	margin-left: -58px;
+.page2{
+	width:344px;
+	height: 273px;
+}
+.main1 {
+    margin-left: -48px;
+    width: 388px;
 }
 .box1 {
-    height: fit-content;
-    width: 90%;
+    height: 128px;
+    width: 53%;
     background-color: black;
-    margin-top: 61px;
-    margin-left: -785px;
-    padding: 25px;
-    font-size: 20px;
+    margin-top: 79px;
+    margin-left: -252px;
+    padding: 7px;
+    font-size: 10px;
     color: whitesmoke;
     background: rgba(0, 0, 0, 0.9);
     border-radius: 20px;
@@ -232,7 +242,19 @@ h1{
 	margin-left: 177px;
 }
 .img4{
-	width: 50%;
+	width: 63%;
+}
+.orisys
+{
+	margin-top: -50px;
+}
+.h1 h1{
+	font-size: 12px;
+}
+.h1{
+	height: 84px;
+	width:159px;
+	margin-left: 134px;
 }
 }
 /*@media only screen and (max-width: 700px){
